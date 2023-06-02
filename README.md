@@ -6,11 +6,11 @@ This repository contains the code for benchmarking spatial relation modeling in 
 
 In this project, we aim to address the problem of subgoal success detection in robotic rearrangement tasks. Robotic rearrangement involves moving objects from an initial configuration to a target configuration through a series of subgoals. Successful completion of each subgoal is crucial to achieve the overall task objective. We explore various spatial relation modeling techniques to predict the success or failure of subgoals.
 
+![Picture1](https://github.com/tinwech/subgoal_success_detection/assets/80531783/af530e8e-5d35-40a0-bf9a-2a88248c5618)
 
 ## Data
 
 The data of success and failed scene are collected from the [Ravens](https://github.com/google-research/ravens) environment.
-
 
 ## Models
 
